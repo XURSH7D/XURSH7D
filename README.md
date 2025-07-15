@@ -1,12 +1,13 @@
 ## Hello, World! 👋
 
-**XURSH7D/XURSH7D** is a ✨ _special_ ✨ repository
-
 - 🔭 I’m currently in the process of changing my job.
 - 🌱 I’m currently learning Java, Android & Kotlin.
 - 👯 I’m looking to collaborate on awesome projects.
 - 🤔 I’m looking for help with IT.
+- <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- **XURSH7D/XURSH7D** is a ✨ _special_ ✨ repository
+-->
