@@ -1,9 +1,6 @@
 ## Hello, World! 👋
 
-<!--
-**XURSH7D/XURSH7D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**XURSH7D/XURSH7D** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently in the process of changing my job.
 - 🌱 I’m currently learning Java, Android & Kotlin.
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
