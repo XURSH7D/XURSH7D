@@ -3,7 +3,7 @@
 - 🔭 I’m currently in the process of changing my job.
 - 🌱 I’m currently learning Java, Android & Kotlin.
 - 👯 I’m looking to collaborate on awesome projects.
-- 🤔 I’m looking for help with IT.
+- 🤔 I’m looking for help with networking.
 - <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
