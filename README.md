@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on awesome projects.
 - 🤔 I’m looking for help with networking.
 - 💬 Ask me about anything, i’m happy to help.
-- 📫 How to reach me: via LinkedIn, YouTube, X, Telegram.
+- 📫 How to reach me: via LinkedIn, YouTube, Telegram.
 - ⚡ Fun fact: I’m good at drawing.
